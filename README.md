@@ -49,10 +49,10 @@ You can find all releases [here](https://github.com/kmikiy/SpotMenu/releases).
 
 ## Advanced Install
 
-via [Homebrew Cask](https://caskroom.github.io)
+via [Homebrew Cask](https://github.com/Homebrew/homebrew-cask)
 
 ```sh
-brew cask install spotmenu
+brew install spotmenu
 ```
 
 ## How to Build
